@@ -5,6 +5,8 @@
  * This program uses an ultrasonic sensor, two buzzers, and the Light 
  * Blue Bean Arduino to create a personal theremin. The two buzzers
  * are inserted into earbuds so the user can play the theremin by themselves.
+ *
+ * TODO: Add potentiometer for volume control
  */
 
 #define TRIG 2 
